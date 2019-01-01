@@ -1,0 +1,4 @@
+psycopg2
+graphene-sqlalchemy
+flask
+flask-graphql
