@@ -4,7 +4,6 @@ from sqlalchemy.ext.declarative import declarative_base
 from util.db_session import session
 
 Base = declarative_base()
-# We will need this for querying
 Base.query = session.query_property()
 
 
