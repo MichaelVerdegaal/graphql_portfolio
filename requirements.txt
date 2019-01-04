@@ -1,5 +1,5 @@
 psycopg2
-graphene-sqlalchemy
 flask
 flask-graphql
 gunicorn
+git+git://github.com/comtihon/graphene-sqlalchemy.git
